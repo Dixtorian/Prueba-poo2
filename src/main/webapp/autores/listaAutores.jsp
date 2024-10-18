@@ -9,7 +9,7 @@
 <head>
 <meta charset="UTF-8">
 <title>Primer proyecto web de poo 2</title>
-
+Hola mundo
 <table id="tabla">
 	 <thead>
 		 <tr>
