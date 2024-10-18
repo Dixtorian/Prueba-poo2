@@ -8,7 +8,7 @@
 <html>
 <head>
 <meta charset="UTF-8">
-<title>Primer proyecto web</title>
+<title>Primer proyecto web de poo 2</title>
 
 <table id="tabla">
 	 <thead>
